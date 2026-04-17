@@ -1,0 +1,7 @@
+{
+  "name": "chenyu-opinion-skill",
+  "version": "1.0.0",
+  "description": "基于辰语网站的中文社会观点分析skill",
+  "keywords": ["kiro-skill", "claude-skill", "chinese", "opinion"],
+  "license": "MIT"
+}
