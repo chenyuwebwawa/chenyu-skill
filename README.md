@@ -1,2 +1,25 @@
-# chenyu-skill
-基于辰语网站(chenyuweb.com)观点文章，输出有深度的中文社会观点分析
+# chenyu-opinion
+
+基于[辰语](https://chenyuweb.com/)网站观点文章的 Kiro CLI skill，输出有深度的中文社会观点分析。
+
+## 安装
+
+```bash
+npx skills add chenyuwebwawa/chenyu-opinion-skill
+```
+
+## 使用
+
+```
+/chenyu-opinion 如何看待xxxx？
+```
+
+## 涵盖议题
+
+- 社会与民生
+- 经济与制度
+- 权力与司法
+- AI与科技
+- 性别与婚姻
+- 教育与个体
+
